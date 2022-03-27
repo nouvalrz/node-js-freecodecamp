@@ -1,6 +1,14 @@
 {
-	"name": "fcc-learn-node-with-express",
-	"version": "0.1.0",
+	"name": "fcc-learn-npm-package-json",
+	"author": "Nouval Rizky",
+	"description": "A project does testing my competenties",
+	"license": "MIT",
+	"version": "1.0.0",
+	"keywords": [
+		"learning",
+		"backend",
+		"freecodecamp"
+	],
 	"engines": {
 		"node": "17.x"
 	},
